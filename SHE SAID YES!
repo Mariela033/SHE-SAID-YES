@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+
+<style>
+	
+body { 
+	background-color: lightblue;
+	display: center;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	
+}
+
+.header_text {
+	font-family: 'times new roman';
+	font-size: 50px;
+	font-weight: bold;
+	color: black;
+	text-align: center;
+	margin-top: 100px;
+	margin-bottom: 20px;
+}
+
+.header_item {
+	font-family: 'times new roman';
+	font-size: 50px;
+	font-weight: bold;
+	color: black;
+	text-align: center;
+	margin-top: 0px;
+	margin-bottom: 20px;
+}
+
+.gif_container {
+	display : flex;
+	justify-content: center;
+	align-items: center;
+}
+</style>
+
+<html lang="en">
+
+
+	<body>
+
+			<h1 class="header_text"> Yiiiiieeeee, pakiss ngaaaaaa</h1>
+		<h1 class="header_item"> I love you pinaka-mamahal ko!!Mamahalin kita, palagi. Habang nabubuhay ako, may nagmamahal sayo. mwamwa </h1>
+			
+
+			<div class="gif_container">
+				<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3NrbWhoa2lxa3dyYTdpbTU2eG9iZmxxYnVhaWVkOHQzZWVrMjUyeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5GoVLqeAOo6PK/200.webp">
+			</div>
+	</body>
+</html>
